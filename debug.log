@@ -1,0 +1,30 @@
+date: "2014-10-25 12:58:04.480"
+argv: node /usr/local/node/bin/hexo server
+os: Linux 3.13.0-24-generic linux x64
+versions:
+  http_parser: "1.0"
+  node: 0.10.32
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.28
+  zlib: 1.2.3
+  modules: "11"
+  openssl: 1.0.1i
+  hexo: 2.8.3
+---
+[debug] 12:58:04.016 Config file loaded from /home/lion/blog/_config.yml[debug] 12:58:04.019 Version info checked successfully[debug] 12:58:04.106 Processed: draft.md (2ms)[debug] 12:58:04.106 Processed: page.md (1ms)[debug] 12:58:04.108 Processed: photo.md (3ms)[debug] 12:58:04.108 Processed: post.md (3ms)[debug] 12:58:04.142 Plugin loaded successfully: hexo-renderer-ejs[debug] 12:58:04.177 Plugin loaded successfully: hexo-renderer-marked[debug] 12:58:04.370 Plugin loaded successfully: hexo-renderer-stylus[debug] 12:58:04.423 Processed: source/favicon.ico (1ms)[debug] 12:58:04.423 Processed: source/logo.png (0ms)[debug] 12:58:04.424 Processed: source/fancybox/blank.gif (1ms)[debug] 12:58:04.424 Processed: source/fancybox/fancybox_loading.gif (0ms)[debug] 12:58:04.424 Processed: source/fancybox/fancybox_loading@2x.gif (0ms)[debug] 12:58:04.425 Processed: source/fancybox/fancybox_overlay.png (1ms)[debug] 12:58:04.425 Processed: source/fancybox/fancybox_sprite.png (0ms)[debug] 12:58:04.425 Processed: source/fancybox/fancybox_sprite@2x.png (0ms)[debug] 12:58:04.425 Processed: source/fancybox/jquery.fancybox.css (0ms)[debug] 12:58:04.425 Processed: source/fancybox/jquery.fancybox.pack.js (0ms)[debug] 12:58:04.425 Processed: source/js/bootstrap.min.js (0ms)[debug] 12:58:04.425 Processed: source/js/cover.js (0ms)[debug] 12:58:04.425 Processed: source/js/gallery.js (0ms)[debug] 12:58:04.426 Processed: source/js/jquery.anystretch.min.js (0ms)[debug] 12:58:04.426 Processed: source/js/jquery.imagesloaded.min.js (0ms)[debug] 12:58:04.426 Processed: source/css/style.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_base/layout.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_base/utils.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_base/variable.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_partial/archive.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_partial/article.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_partial/comment.styl (0ms)[debug] 12:58:04.426 Processed: source/css/_partial/footer.styl (0ms)[debug] 12:58:04.427 Processed: source/css/_partial/header.styl (1ms)[debug] 12:58:04.427 Processed: source/css/_partial/index.styl (0ms)[debug] 12:58:04.427 Processed: source/css/_partial/sidebar.styl (0ms)[debug] 12:58:04.427 Processed: source/css/_partial/syntax.styl (0ms)[debug] 12:58:04.430 Processed: layout/about.ejs (12ms)[debug] 12:58:04.431 Processed: layout/archive.ejs (12ms)[debug] 12:58:04.431 Processed: layout/blog.ejs (13ms)[debug] 12:58:04.431 Processed: layout/category.ejs (12ms)[debug] 12:58:04.431 Processed: layout/index.ejs (12ms)[debug] 12:58:04.431 Processed: layout/layout.ejs (12ms)[debug] 12:58:04.431 Processed: layout/page.ejs (12ms)[debug] 12:58:04.431 Processed: layout/post.ejs (12ms)[debug] 12:58:04.431 Processed: layout/tag.ejs (12ms)[debug] 12:58:04.431 Processed: layout/_widget/category.ejs (11ms)[debug] 12:58:04.431 Processed: layout/_widget/recent_posts.ejs (11ms)[debug] 12:58:04.431 Processed: layout/_widget/search.ejs (11ms)[debug] 12:58:04.431 Processed: layout/_widget/tag.ejs (11ms)[debug] 12:58:04.431 Processed: layout/_widget/tagcloud.ejs (10ms)[debug] 12:58:04.431 Processed: layout/_partial/about.ejs (10ms)[debug] 12:58:04.432 Processed: layout/_partial/after_footer.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/archive.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/article.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/comment.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/duoshuo_comment.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/footer.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/google_analytics.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/head.ejs (11ms)[debug] 12:58:04.432 Processed: layout/_partial/header.ejs (10ms)[debug] 12:58:04.432 Processed: layout/_partial/pagination.ejs (10ms)[debug] 12:58:04.432 Processed: layout/_partial/sidebar.ejs (10ms)[debug] 12:58:04.433 Processed: layout/_partial/social.ejs (11ms)[debug] 12:58:04.433 Processed: layout/_partial/post/category.ejs (11ms)[debug] 12:58:04.433 Processed: layout/_partial/post/gallery.ejs (11ms)[debug] 12:58:04.433 Processed: layout/_partial/post/share.ejs (11ms)[debug] 12:58:04.433 Processed: layout/_partial/post/tag.ejs (11ms)[debug] 12:58:04.433 Processed: layout/_partial/post/title.ejs (11ms)[debug] 12:58:04.466 Theme config loaded[debug] 12:58:04.466 Processed: _config.yml (50ms)[debug] 12:58:04.467 Processed: languages/de.yml (51ms)[debug] 12:58:04.468 Processed: languages/default.yml (51ms)[error] 12:58:04.469 { name: 'HexoError',
+  reason: 'incomplete explicit mapping pair; a key node is missed',
+  mark: 
+   { name: null,
+     buffer: 'categories: Categorías\nsearch: Buscar\ntags: Etiquetas\ntagcloud: Nube de Etiquetas\ntweets: Tweets\nprev: Anterior\nnext: Siguiente\ncomment: Comentarios\narchive_a: Archivo\narchive_b: Archivo: %s\npage: Página %d\nrecent_posts: Entradas Recientes\n\u0000',
+     position: 186,
+     line: 9,
+     column: 18 },
+  message: 'Process failed: languages/es.yml',
+  domain: 
+   { domain: null,
+     _events: { error: [Function] },
+     _maxListeners: 10,
+     members: [ [Object] ] },
+  domainThrown: true,
+  stack: undefined }[debug] 12:58:04.479 Processed: languages/zh-CN.yml (62ms)[debug] 12:58:04.480 Processed: languages/zh-TW.yml (63ms)[debug] 12:58:04.480 Processed: _posts/hello-world.md (74ms)
