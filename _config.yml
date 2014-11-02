@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 假装学霸 
+title: 数星星的孩子 
 subtitle: 学无止境
 description: test
 author: smilefish1987 
@@ -12,7 +12,7 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.heqq.me
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -56,7 +56,7 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
+port: 4008
 server_ip: localhost
 logger: false
 logger_format: dev
@@ -65,7 +65,7 @@ logger_format: dev
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMM D YYYY
+date_format: YYYY-MM-DD 
 time_format: H:mm:ss
 
 # Pagination
@@ -80,11 +80,13 @@ disqus_shortname:
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: cover 
-exclude_generator:
+exclude_generator: 
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
   repo: https://github.com/smilefish1987/smilefish1987.github.io.git
+  #repo: https://gitcafe.com/smilefish1987/smilefish1987.git
   branch: master
+  #branch: gitcafe-pages
